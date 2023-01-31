@@ -25,7 +25,7 @@ Run the project
 
 ```bash
   npm start
-
+```
 
 ## Contributing
 
